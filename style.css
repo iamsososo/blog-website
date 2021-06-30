@@ -1,0 +1,23 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.travel_div{border: 1px solid limegreen ; 
+
+}
+.travel_div img{width:  100%}
+.movie_head{font-size:20px;padding:5px 20px; width:100%;margin-bottom:20px;}
+.movie_head i{float:right;}
